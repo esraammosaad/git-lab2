@@ -14,6 +14,9 @@ public class HelloITI{
 		System.out.println("new arwa branch");
 		]System.out.println("new arwa branch into development");
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 		
 		
